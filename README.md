@@ -18,10 +18,13 @@ En este repositorio se desarrollara la practica Git resolucion de conflictos par
     
   -[x] Resuelto lo anterior, hacer pull en carpetaCasa para que coincidan.
     
-  -[ ] Cambiar en ambas carpetas la misma linea de un fichero y sin hacer pull subirlo
+  -[x] Cambiar en ambas carpetas la misma linea de un fichero y sin hacer pull subirlo
     
     * Describir que ha pasado durante el proceso que problemas surgen y como lo he solucionado:
        + Al hacer pull en carpetaCasa me pide fusionar los cambios y me da dos opciones, rebase y merge, use merge.
+       + Al subir los cambios en el segundo push me volvio a dar la opcion de hacer marge o rebase, pero luego me notifico
+       si queria mantener sus cambios o los mios, le di a mantener los suyos y me hizo un merge de la rama principal del remoto
+        a mi rama principal del repositoria de carpetaInstituto. 
     
 3- Tercera tarea:
 
