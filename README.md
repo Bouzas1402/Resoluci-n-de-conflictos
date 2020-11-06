@@ -16,11 +16,12 @@ En este repositorio se desarrollara la practica Git resolucion de conflictos par
     
 2- Segunda tarea:
     
-  -[ ] Resuelto lo anterior, hacer pull en carpetaCasa para que coincidan.
+  -[x] Resuelto lo anterior, hacer pull en carpetaCasa para que coincidan.
     
   -[ ] Cambiar en ambas carpetas la misma linea de un fichero y sin hacer pull subirlo
     
     * Describir que ha pasado durante el proceso que problemas surgen y como lo he solucionado:
+       + Al hacer pull en carpetaCasa me pide fusionar los cambios y me da dos opciones, rebase y merge, use merge.
     
 3- Tercera tarea:
 
