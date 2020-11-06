@@ -9,8 +9,10 @@ public static void main(String[] args){
 int numero = sc.nextInt();
 if ((numero % 2) == 0) {
     System.out.println("El número es par.");
+    System.out.println("Por lo tanto no puede ser primo");
 } else {
     System.out.println("El número es impar.");
+    System.out.println("Por lo tanto podría ser primo");
 }
 
 }
