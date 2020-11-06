@@ -8,9 +8,11 @@ En este repositorio se desarrollara la practica Git resolucion de conflictos par
  
  -[x] Desde carpetaCasa hacer un cambio y subirlo.
  
- -[ ]  Crear una nueva clase en carpetaInstituto y subirla.
+ -[x]  Crear una nueva clase en carpetaInstituto y subirla.
  
     * Describir que ha pasado durante el proceso que problemas surgen y como lo he solucionado:
+        + Esto se realizo directamente desde IntellJ, al hacer el ultimo push de primeras me lo rechazo porque me dijo que los cambios debien 
+        fusionarse y me daba dos formas, merge y rebase, yo use merge.
     
 2- Segunda tarea:
     
