@@ -23,11 +23,19 @@ En este repositorio se desarrollara la practica Git resolucion de conflictos par
     * Describir que ha pasado durante el proceso que problemas surgen y como lo he solucionado:
        + Al hacer pull en carpetaCasa me pide fusionar los cambios y me da dos opciones, rebase y merge, use merge.
        + Al subir los cambios en el segundo push me volvio a dar la opcion de hacer marge o rebase, pero luego me notifico
-       si queria mantener sus cambios o los mios, le di a mantener los suyos y me hizo un merge de la rama principal del remoto
+       si queria mantener sus cambios o los mios o una tercera opcion de seguir con merge, le di a mantener los suyos y me hizo un merge de la rama principal del remoto
         a mi rama principal del repositoria de carpetaInstituto. 
     
 3- Tercera tarea:
 
-  -[ ] Solucionada la tarea 2, hacer cambios distintos en las dos carpetas en la misma linea y sin hacer pull subirlas
+  -[x] Solucionada la tarea 2, hacer cambios distintos en las dos carpetas en la misma linea y sin hacer pull subirlas
   
     * Describir que ha pasado durante el proceso que problemas surgen y como lo he solucionado:
+    Lo que ocurrió fue muy parecido al ultimo punto de la tarea dos, me dio la opcion de fusionar con marge o rebase, al volver a 
+    usar marge me volvio a preguntar si queria guardar sus cambios o los mios o la opción merge, le de esta vez a la opcion merge
+    y me salio una ventana dividada en tres donde me aparecian señalados los conflictos y que conflictos queria mantener de cada lado
+    elegí todos los cambios de carpetaCasa.
+    
+    #Observaciones:
+      - Elegí siempre marge porque a pesar de que rebase en teoria hace limpias en commits en las ramas y puede quedar un rama 
+      mas clara y mas legible se podian perder commits y creo que podia ser contraproducente para la tarea. 
