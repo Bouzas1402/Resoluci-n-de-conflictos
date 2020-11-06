@@ -4,9 +4,9 @@ En este repositorio se desarrollara la practica Git resolucion de conflictos par
 
 1- Primera tarea:
 
--[ ] Clonar un proyecto java en dos caspetas distintas, caspetaInstituto y carpetaCasa.
+-[x] Clonar un proyecto java en dos caspetas distintas, caspetaInstituto y carpetaCasa.
  
- -[ ] Desde carpetaCasa hacer un cambio y subirlo.
+ -[x] Desde carpetaCasa hacer un cambio y subirlo.
  
  -[ ]  Crear una nueva clase en carpetaInstituto y subirla.
  
