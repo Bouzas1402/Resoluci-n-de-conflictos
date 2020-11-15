@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Proyecto/Proyecto.iml" filepath="$PROJECT_DIR$/Proyecto/Proyecto.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/carpetaInstituto.iml" filepath="$PROJECT_DIR$/.idea/carpetaInstituto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Git tag, localizar versiones.iml" filepath="$PROJECT_DIR$/.idea/Git tag, localizar versiones.iml" />
     </modules>
   </component>
 </project>
