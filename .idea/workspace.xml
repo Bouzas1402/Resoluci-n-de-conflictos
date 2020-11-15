@@ -25,10 +25,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f426102e-422f-464c-801e-8b697b4dc83c" name="Default Changelist" comment="6">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_11_2020_14_46__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="f426102e-422f-464c-801e-8b697b4dc83c" name="Default Changelist" comment="5">
+      <change afterPath="$PROJECT_DIR$/CarpetaCasa.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_11_2020_14_54__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_11_2020_14_54__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_11_2020_14_37__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_11_2020_14_37__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_11_2020_14_46__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_11_2020_14_46__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captura de pantalla 2020-11-15 144749.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Captura de pantalla 2020-11-15 160447.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +67,21 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -119,14 +139,7 @@
       <option name="project" value="LOCAL" />
       <updated>1605452091043</updated>
     </task>
-    <task id="LOCAL-00007" summary="6">
-      <created>1605452796994</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1605452796994</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,18 +195,17 @@
     <MESSAGE value="Terminado README" />
     <MESSAGE value="1" />
     <MESSAGE value="2" />
-    <MESSAGE value="6" />
-    <option name="LAST_COMMIT_MESSAGE" value="6" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1255" y="149" width="1121" height="1082" key="DiffContextDialog" timestamp="1605451264220">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1255" y="149" width="1121" height="1082" key="DiffContextDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605451264220" />
-    <state x="1753" y="607" key="Github.Dialog.Accounts.Choose" timestamp="1605452806342">
+    <state x="1753" y="607" key="Github.Dialog.Accounts.Choose" timestamp="1604674313360">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1753" y="607" key="Github.Dialog.Accounts.Choose/0.0.2560.1400@0.0.2560.1400" timestamp="1605452806342" />
+    <state x="1753" y="607" key="Github.Dialog.Accounts.Choose/0.0.2560.1400@0.0.2560.1400" timestamp="1604674313360" />
     <state x="496" y="117" key="MergeDialog" timestamp="1604673882634">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -202,14 +214,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1531" y="456" key="MultipleFileMergeDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1604673882641" />
-    <state x="1484" y="427" key="Vcs.Push.Dialog.v2" timestamp="1605452802650">
+    <state x="1484" y="427" key="Vcs.Push.Dialog.v2" timestamp="1604674310355">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1484" y="427" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605452802650" />
-    <state x="1710" y="608" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605453011532">
+    <state x="1484" y="427" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1604674310355" />
+    <state x="1710" y="608" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605452513127">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1710" y="608" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605453011532" />
+    <state x="1710" y="608" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605452513127" />
     <state x="1500" y="403" key="git4idea.branch.GitSmartOperationDialog" timestamp="1605448465482">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
