@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="396b1dad-bbe9-4dbf-b1db-a03e77521454" name="Default Changelist" comment="Hecho cambio de Multiplicación en proyecto2">
+      <change beforePath="$PROJECT_DIR$/.ignore" beforeDir="false" afterPath="$PROJECT_DIR$/.ignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1juuw2ziodHtvMGZbAqGAwp5FPI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="396b1dad-bbe9-4dbf-b1db-a03e77521454" name="Default Changelist" comment="" />
+      <created>1604666532937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604666532937</updated>
+      <workItem from="1604666534032" duration="5925000" />
+      <workItem from="1605447942133" duration="2071000" />
+      <workItem from="1605452321489" duration="71000" />
+    </task>
+    <task id="LOCAL-00001" summary="Comenzando Proyecto1">
+      <created>1604666669825</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604666669825</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Comenzando Proyecto1">
+      <created>1604666734563</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604666734563</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Comenzando Proyecto1">
+      <created>1604666824436</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604666824436</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Comenzando Proyecto2">
+      <created>1604668503467</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604668503467</updated>
+    </task>
+    <task id="LOCAL-00005" summary="modificado README">
+      <created>1604669511825</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604669511825</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Hecho el mismo cambio en Proyecto1">
+      <created>1604672491361</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604672491361</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Hecho cambio de Multiplicación en proyecto2">
+      <created>1604673366807</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604673366807</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/version0.0.0" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Comenzando Proyecto1" />
+    <MESSAGE value="Comenzando Proyecto2" />
+    <MESSAGE value="modificado README" />
+    <MESSAGE value="Hecho el mismo cambio en Proyecto1" />
+    <MESSAGE value="Hecho cambio de Multiplicación en proyecto2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hecho cambio de Multiplicación en proyecto2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1736" y="586" key="Github.Dialog.Accounts.Choose" timestamp="1605450572417">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1736" y="586" key="Github.Dialog.Accounts.Choose/0.0.2560.1400@0.0.2560.1400" timestamp="1605450572417" />
+    <state x="1024" y="439" key="MultipleFileMergeDialog" timestamp="1604672614225">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1024" y="439" key="MultipleFileMergeDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1604672614225" />
+    <state x="1396" y="335" key="SettingsEditor" timestamp="1604668118065">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1396" y="335" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1604668118065" />
+    <state x="1430" y="427" key="Vcs.Push.Dialog.v2" timestamp="1605450569081">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1430" y="427" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605450569081" />
+    <state x="1203" y="592" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605452326710">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1203" y="592" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605452326710" />
+    <state x="1221" y="315" key="new project wizard" timestamp="1604666568006">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1221" y="315" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1604666568006" />
+  </component>
+</project>
