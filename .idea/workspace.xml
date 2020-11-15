@@ -25,14 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f426102e-422f-464c-801e-8b697b4dc83c" name="Default Changelist" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_11_2020_14_54_[Default_Changelist]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_11_2020_14_54__Default_Changelist_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_11_2020_14_37_[Default_Changelist]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15_11_2020_14_37__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ignore" beforeDir="false" afterPath="$PROJECT_DIR$/.ignore" afterDir="false" />
-    </list>
+    <list default="true" id="f426102e-422f-464c-801e-8b697b4dc83c" name="Default Changelist" comment="2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +71,7 @@
       <workItem from="1605447315462" duration="1050000" />
       <workItem from="1605448383548" duration="1309000" />
       <workItem from="1605450518802" duration="1358000" />
-      <workItem from="1605451890608" duration="190000" />
+      <workItem from="1605451890608" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="Hecho cambio en proyecto1.java">
       <created>1604667718999</created>
@@ -115,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605448992862</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2">
+      <created>1605452091043</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605452091043</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,7 +170,8 @@
     <MESSAGE value="Hecho cambio de resta en proyecto2" />
     <MESSAGE value="Terminado README" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1255" y="149" width="1121" height="1082" key="DiffContextDialog" timestamp="1605451264220">
@@ -193,10 +194,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1484" y="427" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1604674310355" />
-    <state x="1710" y="608" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605451070093">
+    <state x="1710" y="608" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605452183855">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1710" y="608" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605451070093" />
+    <state x="1710" y="608" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605452183855" />
     <state x="1500" y="403" key="git4idea.branch.GitSmartOperationDialog" timestamp="1605448465482">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
