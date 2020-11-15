@@ -1,0 +1,12 @@
+Index: .ignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>/.idea\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .ignore	(revision c9470bc9f23c2a5c055235b395a09da13e9cac73)
++++ .ignore	(date 1605448458037)
+@@ -1,1 +1,2 @@
+ /.idea
++.xml/
