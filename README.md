@@ -70,4 +70,4 @@ En este repositorio se desarrollara la practica Git resolucion de conflictos y G
       
   
   
-  ![Commits](C:\Users\carlo\Desktop\Modulo DAW\Lenguaje de marcas\Resolucion de conflictos\carpetaCasa\CarpetaCasa.PNG)
+  ![Commits](https://i.ibb.co/m9F47qY/Carpeta-Casa.png)
