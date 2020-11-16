@@ -69,5 +69,10 @@ En este repositorio se desarrollara la practica Git resolucion de conflictos y G
       - Hice esta tarea sobretodo con comandos, excepto los problemas que tuve el dia 15 que tuve que hacer muchos commit no deseados para solucionar conflictos.
       
   
+  Carpeta Casa:
+  ![CommitsCarpetaCasa](https://i.ibb.co/m9F47qY/Carpeta-Casa.png)
   
-  ![Commits](https://i.ibb.co/m9F47qY/Carpeta-Casa.png)
+  
+  
+  Carpeta Instituto:
+  ![CommitsCarpetaInstituto](https://i.ibb.co/dtXpbN9/Carpeta-Instituto.png)

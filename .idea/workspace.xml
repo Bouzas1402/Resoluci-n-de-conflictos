@@ -25,7 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f426102e-422f-464c-801e-8b697b4dc83c" name="Default Changelist" comment="Insertado imagen en README.md" />
+    <list default="true" id="f426102e-422f-464c-801e-8b697b4dc83c" name="Default Changelist" comment="Insertado imagen en README.md">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +74,7 @@
       <workItem from="1605448383548" duration="1309000" />
       <workItem from="1605450518802" duration="1358000" />
       <workItem from="1605451890608" duration="302000" />
-      <workItem from="1605529694593" duration="620000" />
+      <workItem from="1605529694593" duration="923000" />
     </task>
     <task id="LOCAL-00001" summary="Hecho cambio en proyecto1.java">
       <created>1604667718999</created>
@@ -130,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605529905261</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Insertado imagen en README.md">
+      <created>1605530395351</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605530395351</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
