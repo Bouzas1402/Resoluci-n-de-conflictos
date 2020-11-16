@@ -25,9 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f426102e-422f-464c-801e-8b697b4dc83c" name="Default Changelist" comment="Insertado imagen en README.md">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="f426102e-422f-464c-801e-8b697b4dc83c" name="Default Changelist" comment="Vuelvo a meter las imagenes bien." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +72,7 @@
       <workItem from="1605448383548" duration="1309000" />
       <workItem from="1605450518802" duration="1358000" />
       <workItem from="1605451890608" duration="302000" />
-      <workItem from="1605529694593" duration="923000" />
+      <workItem from="1605529694593" duration="1274000" />
     </task>
     <task id="LOCAL-00001" summary="Hecho cambio en proyecto1.java">
       <created>1604667718999</created>
@@ -139,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605530395351</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Vuelvo a meter las imagenes bien.">
+      <created>1605530724222</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605530724223</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,17 +202,18 @@
     <MESSAGE value="2" />
     <MESSAGE value="Hecho README para Tags,Localizar versiones." />
     <MESSAGE value="Insertado imagen en README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Insertado imagen en README.md" />
+    <MESSAGE value="Vuelvo a meter las imagenes bien." />
+    <option name="LAST_COMMIT_MESSAGE" value="Vuelvo a meter las imagenes bien." />
   </component>
   <component name="WindowStateProjectService">
     <state x="1255" y="149" width="1121" height="1082" key="DiffContextDialog" timestamp="1605451264220">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1255" y="149" width="1121" height="1082" key="DiffContextDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1605451264220" />
-    <state x="1753" y="607" key="Github.Dialog.Accounts.Choose" timestamp="1605529914525">
+    <state x="1753" y="607" key="Github.Dialog.Accounts.Choose" timestamp="1605530735795">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1753" y="607" key="Github.Dialog.Accounts.Choose/0.0.2560.1400@0.0.2560.1400" timestamp="1605529914525" />
+    <state x="1753" y="607" key="Github.Dialog.Accounts.Choose/0.0.2560.1400@0.0.2560.1400" timestamp="1605530735795" />
     <state x="496" y="117" key="MergeDialog" timestamp="1604673882634">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -216,10 +222,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1531" y="456" key="MultipleFileMergeDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1604673882641" />
-    <state x="1484" y="427" key="Vcs.Push.Dialog.v2" timestamp="1605529910061">
+    <state x="1484" y="427" key="Vcs.Push.Dialog.v2" timestamp="1605530732309">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1484" y="427" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605529910061" />
+    <state x="1484" y="427" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1605530732309" />
     <state x="1710" y="608" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605452513127">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

@@ -75,4 +75,4 @@ En este repositorio se desarrollara la practica Git resolucion de conflictos y G
   
   
   Carpeta Instituto:
-  ![CommitsCarpetaInstituto](https://i.ibb.co/dtXpbN9/Carpeta-Instituto.png)
+  ![CommitsCarpetaInstituto](https://i.ibb.co/q1vVyD6/Carpeta-Instituto.png)
