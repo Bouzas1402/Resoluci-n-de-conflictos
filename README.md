@@ -1,5 +1,6 @@
 ## ***Resolucion-de-conflictos***
 ## ***Git Tags, localizar versiones***
+## ***Git trabajo con ramas***
 
 En este repositorio se desarrollara la practica Git resolucion de conflictos y Git tags, localizar versiones para la cual se desarrollaran las siguientes tareas:
 
@@ -76,3 +77,44 @@ En este repositorio se desarrollara la practica Git resolucion de conflictos y G
   
   Carpeta Instituto:
   ![CommitsCarpetaInstituto](https://i.ibb.co/q1vVyD6/Carpeta-Instituto.png)
+  
+  
+  
+  GIT TRABAJO CON RAMAS:
+  
+  
+   1- La carpetaCasa se encuentra con estas ramas.
+      
+   ![BranchCarpetaCasa](https://i.ibb.co/M9L9Ypf/Ramas-carpeta-Casa-antes.png)
+   
+   2- Creo la rama hago cambios en local y subo los cambios para tener la nueva rama en el remoto.
+   
+   ![BranchCarpetaCasaDespues](https://i.ibb.co/9HLSGv2/Ramas-carpeta-Casa-despues.png)
+   
+   3- Cambio a carpeta instituto que se encuentra del ejercicio anterior en este estado
+   
+   ![CarpetaInstitutoAntes](https://i.ibb.co/x1Dzg8Z/Carpeta-Instituto-como-estaba-del-ejercicio-anterior.png)
+   
+   
+   con estas ramas:
+   ![CarpetaInstitutoBranchAntes](https://i.ibb.co/1qJffBT/Ramas-carpeta-Instituto-antes-pull.png)
+   
+   4- Hago pull y ya tengo en remoto la nueva rama
+   
+   ![BranchCarpetaInstitutoDespues](https://i.ibb.co/VY0vQP0/Ramas-carpeta-Instituto-despues.png)
+   
+   5- Hago merge, dado que los cambios no implican inconsistencias las ramas se fusionan en local. Hago push y 
+   se sincroniza la rama principal remota con los cambios de la rama fusionado en remoto. En este punto las ramas main 
+   y la version1.2.0 tienen los mismos commits, aunque las ramas siguen existiendo.
+   
+   ![CommitsMainCarpetaInstituto](https://i.ibb.co/V39DwSs/Commits-despues-de-fusion-en-carpeta-Instituto-en-rama-main.png)
+   
+   ![CommitsVersion1.2.0CarpetaInstituto](https://i.ibb.co/Z2fH1mY/Commits-despues-de-la-fusion-en-carpeta-Intituto-en-version1-2-0.png)
+   
+   ![BranchCarpetaInstitutoDespuesDeMerge](https://i.ibb.co/ZWz4mgr/branch-carpeta-Instituto-despues-de-merge.png)
+   
+   6- Como las ramas estan fusionadas y no hay diferencia procedo a borrarlas.
+   
+   Primero en local (git branch -d version1.2.0)
+   
+   Luego en remoto (git push origin --delete version1.2.0)
