@@ -19,5 +19,7 @@ for (i = 0; i < numero; i++) {
     numero += i;
 }
 System.out.println(numero);
+System.out.println("Cambios hechos para la version1.2.0");
+System.out.println("Cambios2 hechos para la version1.2.0");
     }
 }
